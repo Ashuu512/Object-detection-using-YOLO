@@ -1,5 +1,4 @@
-# yolo
-YOLO v3 Object Detection with Voice Feedback using gTTS
-
-Download the yolov3 weights from
-https://pjreddie.com/media/files/yolov3.weights
+This project uses the functions of OpenCV and YOLO(You Only Look Once) 
+we have implemented the yolo algorithm (make sure to give proper locations of your file)
+Download the yolo weights from the official yolo website 
+Thank you :)
